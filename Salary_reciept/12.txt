@@ -1,0 +1,19 @@
+	Company Name:system consultant Tech.
+	Address:Jalgaon
+----------------------------------------------------------------------
+Employee ID		: 12
+Salary of		:  des--2038
+Generated On		: 03-04-2024
+----------------------------------------------------------------------
+Total Days		: 31
+Total Present		: 24
+Total Absent		: 7
+Convence		: Rs.100
+Medical		: Rs.500
+PF		: Rs.400
+Gross Payment		: Rs.874658726
+Net Salary		: Rs.903813250.2
+---------------------------------------------------------------------
+This is a computer-generated slip, not 
+require any signature
+---------------------------------------------------------------------
